@@ -1,12 +1,15 @@
 .setupSettings i {
     color:var(--md-sys-color-on-primary-container);
-    font-size:18px;
+    font-size:25px;
+
+    height:min-content;
 }
 
 .setupSettings {
     min-width:46px;
 
     justify-content:center;
+    align-items:center;
 }
 
 .setupSettings select {
