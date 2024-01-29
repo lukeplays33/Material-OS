@@ -18,15 +18,6 @@
     opacity:0.0;
 
     position:absolute;
-
-    width:46px;
-}
-
-option {
-    padding:4px;
-    
-    background-color:var(--md-sys-color-on-tertiary-container);
-
 }
 
 #title {
