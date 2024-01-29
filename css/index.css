@@ -14,4 +14,8 @@
 
 .setupSettings select {
     opacity:0.0;
+
+    position:absolute;
+
+    width:46px;
 }
