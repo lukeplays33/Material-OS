@@ -1,4 +1,4 @@
-.setupSettings:nth-child(1) {
+.setupSettings:nth-child(0) {
     align-items:center;
 
     color:var(--md-sys-color-on-primary-container);
@@ -6,5 +6,5 @@
 }
 
 .setupSettings {
-    min-width:48px;
+    min-width:46px;
 }
