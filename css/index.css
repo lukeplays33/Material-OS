@@ -48,6 +48,6 @@ option {
     flex-direction:row;
 }
 
-#next, #previois {
+#next, #previous {
     width:100px;
 }
