@@ -1,7 +1,11 @@
-.setupSettings {
+.setupSettings:nth-child(1) {
     color:var(--md-sys-color-on-primary-container);
 
     align-self:center;
 
     font-size:18px;
+}
+
+.setupSettings {
+    width:73px;
 }
