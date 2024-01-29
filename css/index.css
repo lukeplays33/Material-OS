@@ -1,8 +1,6 @@
 .setupSettings i {
     color:var(--md-sys-color-on-primary-container);
     font-size:25px;
-
-    height:min-content;
 }
 
 .setupSettings {
