@@ -1,4 +1,4 @@
-.setupSettings:nth-child(0) {
+.setupSettings i {
     align-items:center;
 
     color:var(--md-sys-color-on-primary-container);
