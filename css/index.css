@@ -2,13 +2,13 @@
     color:var(--md-sys-color-on-primary-container);
 
     text-align:center;
-    font-size:25px;
+    font-size:20px;
     
     height: fit-content;
 }
 
 .setupSettings {
-    min-width:46px;
+    min-width:50px;
 
     justify-content:center;
     align-items:center;
@@ -46,6 +46,8 @@ option {
     display:flex;
     justify-content:flex-end;
     flex-direction:row;
+
+    padding-right:8px;
 }
 
 #next, #previous {
