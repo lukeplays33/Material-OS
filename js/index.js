@@ -3,5 +3,5 @@ import * as MaterialComponents from 'https://lukeplays33.github.io/material-Comp
 let restart = document.getElementById('restart');
 
 restart.onclick = function () {
-    MaterialComponents.openPopup(document.getElementById('ewawt'));
+    MaterialComponents.openPopup(document.getElementById('reset'));
 }
