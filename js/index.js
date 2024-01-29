@@ -1,6 +1,5 @@
-let select = document.getElementById('setupSettings');
+let restart = document.getElementById('restart');
 
-select.selectedIndex = -1;
-select.onchange = function () {
+restart.onclick = function () {
     alert()
 }
