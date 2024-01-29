@@ -43,7 +43,7 @@ option {
 }
 
 #controls {
-    width:100%;
+    width:calc(100% - 8px);
 
     display:flex;
     justify-content:flex-end;
