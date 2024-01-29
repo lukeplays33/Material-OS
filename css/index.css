@@ -14,12 +14,6 @@
     align-items:center;
 }
 
-.setupSettings select {
-    opacity:0.0;
-
-    position:absolute;
-}
-
 #title {
     flex:1;
 
