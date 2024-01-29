@@ -8,5 +8,5 @@ restart.onclick = function () {
 }
 
 popup.onSubmit = function (data) {
-    alert(data);
+    window.location.reload();
 }
