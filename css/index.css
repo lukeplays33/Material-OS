@@ -1,9 +1,10 @@
 .setupSettings:nth-child(1) {
     align-items:center;
+
+    color:var(--md-sys-color-on-primary-container);
+    font-size:18px;
 }
 
 .setupSettings {
     width:48px;
-    color:var(--md-sys-color-on-primary-container);
-    font-size:18px;
 }
