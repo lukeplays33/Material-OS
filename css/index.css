@@ -52,3 +52,7 @@
 #settings {
 	flex:7;
   }
+
+  .logo {
+    background-image:url('./workspaces/Material-OS/assets/image (2).png')
+  }
