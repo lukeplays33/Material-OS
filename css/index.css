@@ -27,6 +27,18 @@
     padding:0px;
 }
 
+#controls {
+    width:calc(100% - 8px);
+
+    display:flex;
+    justify-content:flex-end;
+    flex-direction:row;
+
+    margin-right:8px;
+
+    flex:1;
+}
+
 #next, #previous {
     width:100px;
 }
@@ -38,5 +50,5 @@
 }
 
 #settings {
-	flex:1;
+	flex:7;
   }
