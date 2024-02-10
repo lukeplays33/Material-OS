@@ -35,6 +35,8 @@
     flex-direction:row;
 
     margin-right:8px;
+
+    flex:1;
 }
 
 #next, #previous {
@@ -48,5 +50,5 @@
 }
 
 #settings {
-	flex:1;
+	flex:8;
   }
