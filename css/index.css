@@ -61,3 +61,9 @@ body {
     background-size:60%;
     background-image:url('../assets/images/image (2).png')
   }
+
+  #setUpPages {
+    border-width:0px;
+    height:100%;
+    width:100%;
+  }
