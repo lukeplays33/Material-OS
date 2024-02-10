@@ -54,5 +54,6 @@
   }
 
   .logo {
+    background-size:60%;
     background-image:url('../assets/images/image (2).png')
   }
