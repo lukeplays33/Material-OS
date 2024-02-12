@@ -21,8 +21,6 @@ body {
 #title {
     flex:1;
 
-    align-self:center;
-
     text-align:left;
 
     color:var(--md-sys-color-on-primary-container);
