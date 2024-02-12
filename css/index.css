@@ -67,3 +67,11 @@ body {
     height:100%;
     width:100%;
   }
+
+  #welcome {
+    width:100%;
+    display:flex;
+    flex-direction:column;
+
+    align-self: center;
+  }
