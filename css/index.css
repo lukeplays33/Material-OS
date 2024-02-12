@@ -20,10 +20,9 @@ body {
 
 #title {
     flex:1;
+    align-self:flex-start;
 
     text-align:left;
-
-    width:100%;
 
     color:var(--md-sys-color-on-primary-container);
     font-size:30px;
