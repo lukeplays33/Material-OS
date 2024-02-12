@@ -44,6 +44,10 @@ body {
     flex-direction:row;
 }
 
+#controls p {
+  align-self:felx-start;
+}
+
 #next, #previous {
     width:100px;
 }
