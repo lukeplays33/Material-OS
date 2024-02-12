@@ -40,12 +40,15 @@ body {
     width:calc(100% - 32px);
 
     display:flex;
-    justify-content:flex-end;
+    align-items:end;
     flex-direction:row;
 }
 
 #controls p {
-  align-self:felx-start;
+  margin-top:auto;
+  margin-bottom:auto;
+
+  align-self:start;
 }
 
 #next, #previous {
