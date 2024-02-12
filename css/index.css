@@ -23,6 +23,8 @@ body {
 
     text-align:left;
 
+    width:100%;
+
     color:var(--md-sys-color-on-primary-container);
     font-size:30px;
 
