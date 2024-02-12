@@ -23,7 +23,7 @@ body {
 
     align-self:center;
 
-    text-align:center;
+    text-align:left;
 
     color:var(--md-sys-color-on-primary-container);
     font-size:30px;
