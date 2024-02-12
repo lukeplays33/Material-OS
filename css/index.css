@@ -32,7 +32,7 @@ body {
 #controls {
     position:fixed;
 
-    left:16px;
+    right:16px;
     bottom:16px;
 
     display:flex;
