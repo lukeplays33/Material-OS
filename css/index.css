@@ -30,15 +30,16 @@ body {
 }
 
 #controls {
-    width:calc(100% - 8px);
+    position:fixed;
+
+    left:16px;
+    bottom:16px;
 
     display:flex;
     justify-content:flex-end;
     flex-direction:row;
 
     margin-right:8px;
-
-    flex:0;
 }
 
 #next, #previous {
@@ -70,6 +71,8 @@ body {
     width:100%;
     display:flex;
     flex-direction:column;
+
+    text-align:center;
 
     align-items: center;
   }
