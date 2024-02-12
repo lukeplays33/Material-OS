@@ -38,8 +38,6 @@ body {
     display:flex;
     justify-content:flex-end;
     flex-direction:row;
-
-    margin-right:8px;
 }
 
 #next, #previous {
