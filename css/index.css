@@ -90,6 +90,10 @@ body {
     width:800px;
   }
 
+  h4 {
+    text-align:center;
+  }
+
   #searchEngine {
     font-size:16px;
 
