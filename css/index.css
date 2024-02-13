@@ -102,4 +102,6 @@ body {
 
   #searchPerms {
     flex-direction:column;
+
+    width:800px;
   }
