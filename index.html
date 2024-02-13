@@ -19,7 +19,8 @@
 </head>
 
 <body>
-    <pop-up id="reset" title='Are you sure?' message="Restart the set-up process?" backdropClose='true' cancelText="No, Continue" submitText="Yes, restart the process please :3"></pop-up>
+    <pop-up id="reset" title='Are you sure?' message="Restart the set-up process?" backdropClose='true'
+        cancelText="No, Continue" submitText="Yes, restart the process please :3"></pop-up>
     <header>
         <div class="logoText">
             <div class='logo'></div>
@@ -35,16 +36,18 @@
         </div>
     </header>
 
-    <section id="holder">
-        <article id='settings'>
-            <iframe id="setUpPages" src="./set-up/welcome.html"></iframe>
-        </article>
-        <article id="controls">
-            <p>* You can change your preferences later in the settings.</p>
-            <button class='cancelButton' id="previous" title="Go back to previous page">Previous</button>
-            <button id="next" title="Go to next page, hold to skip process.">Next</button>
-        </article>
-    </section>
+    <main>
+        <section id="holder">
+            <article id='settings'>
+                <iframe id="setUpPages" src="./set-up/welcome.html"></iframe>
+            </article>
+            <article id="controls">
+                <p>* You can change your preferences later in the settings.</p>
+                <button class='cancelButton' id="previous" title="Go back to previous page">Previous</button>
+                <button id="next" title="Go to next page, hold to skip process.">Next</button>
+            </article>
+        </section>
+    </main>
 
     <script type='module' src="./js/index.js"></script>
     <script type='module' src="./js/setUpNavigation.js"></script>
