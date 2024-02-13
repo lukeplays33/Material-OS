@@ -85,3 +85,11 @@ body {
 
     align-items: center;
   }
+
+  #searchEngine, h4 {
+    width:800px;
+  }
+
+  #searchEngine {
+    font-size:20px;
+  }
