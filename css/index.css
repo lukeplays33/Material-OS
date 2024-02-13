@@ -95,3 +95,7 @@ body {
 
     margin-top:8px;
   }
+
+  #searchPerms {
+    flex-direction:column;
+  }
