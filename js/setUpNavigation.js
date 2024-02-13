@@ -3,7 +3,7 @@ let pages = [
     '../set-up/browserSelection.html'
 ];
 
-let iframe = document.getElementById('setUpPages').;
+let iframe = document.getElementById('setUpPages');
 
 let index = 0;
 
