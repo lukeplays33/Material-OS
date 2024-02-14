@@ -109,3 +109,8 @@ body {
     background-color:var(--md-sys-color-tertiary-container);
     color:var(--md-sys-color-on-tertiary-container);
   }
+
+  .permItem {
+    display:flex;
+    flex-direction:row;
+  }
