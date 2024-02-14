@@ -105,9 +105,6 @@ body {
     margin-top:8px;
 
     width:calc(800px - 16px);
-
-    background-color:var(--md-sys-color-tertiary-container);
-    color:var(--md-sys-color-on-tertiary-container);
   }
 
   .permItem {
