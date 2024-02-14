@@ -96,7 +96,7 @@ body {
     margin-bottom:8px;
   }
 
-  #searchPerms {
+  #searchPerms, #searchPlugins {
     flex-direction:column;
 
     margin-left:auto;

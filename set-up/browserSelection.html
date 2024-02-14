@@ -20,8 +20,8 @@
 
 <body>
     <main>
-    <section id="welcome">
         <form>
+    <section id="welcome">
         <h4>Let's start with search, wich search engine would you like to use?</h4>
         <select id="searchEngine">
             <option value="Google">Google</option>
@@ -74,9 +74,23 @@
 <label for="images">Images</label>
 </article>
 </input>
-</form>
+<h4>and what would you like to search for from the widget?</h4>
+    </section>
+
+    <section id="searchPlugins">
+        <article class="permItem cardList">
+            <input id='ai' name='ai' type="checkbox" checked>
+        <label for="ai">Search With Bing AI</label>
+    </article>
+
+    <article class="permItem cardList">
+        <input id='lens' name='lens' type="checkbox" checked>
+    <label for="lens">Search With Lens</label>
+</article>
+
     </section>
 <p id="lol">*Note: sadly searching for a Girlfriend or Boyfriend is not possible, sorry.</p>
+</form>
 </main>
 
     <script type='module' src="https://lukeplays33.github.io/material-Components/Material_Components/imports.js"
