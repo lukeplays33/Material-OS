@@ -126,3 +126,7 @@ body {
     font-size:10px;
     text-align:center;
   }
+
+  #searchPlugins h4 {
+    margin-bottom:8px;
+  }
