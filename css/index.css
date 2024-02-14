@@ -117,3 +117,10 @@ body {
     align-items:center;
     justify-content: center;
   }
+
+  #lol {
+    width:100%;
+
+    font-size:10px;
+    text-align:center;
+  }
