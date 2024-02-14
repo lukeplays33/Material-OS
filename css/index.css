@@ -96,7 +96,7 @@ body {
     margin-bottom:8px;
   }
 
-  #searchPerms, #searchPlugins {
+  #searchPerms, #searchPlugins, #h4Holder {
     flex-direction:column;
 
     margin-left:auto;
@@ -127,6 +127,6 @@ body {
     text-align:center;
   }
 
-  #searchPlugins h4 {
+  #h4Holder h4 {
     margin-top:8px;
   }
